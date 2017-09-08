@@ -1,2 +1,2 @@
-# batter.114rom.com
+# batter
 Official batter source code
